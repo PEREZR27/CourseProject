@@ -4,6 +4,7 @@ namespace progex01
 {
     class Program
     {
+        // first comment
         static void Main(string[] args)
         {
             // Part 1
@@ -16,7 +17,7 @@ namespace progex01
             Console.WriteLine($"The circumference is {circumference}");
 
             // Implementation for area here
-
+            double area = 0;
             Console.WriteLine($"The area is {area}");
 
 
@@ -24,7 +25,7 @@ namespace progex01
             Console.WriteLine("\nPart 2, volume of a hemisphere.");
 
             // Implementation here
-
+            double volume = 0;
             Console.WriteLine($"The volume is {volume}");
 
 
@@ -40,7 +41,9 @@ namespace progex01
             Console.WriteLine("\nPart 4, solving a quadratic equation.");
 
             // Implementation here
-
+            double positive_num = 1;
+            double negative_num = -1;
+            double denominator = 2;
             Console.WriteLine($"The positive solution is {positive_num / denominator}");
             Console.WriteLine($"The negative solution is {negative_num / denominator}");
         }
