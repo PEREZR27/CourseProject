@@ -1,4 +1,5 @@
 #Requirements
+Functional: -Have a database to store user data 
 - As a User I can create an account:
 1. User clicks on account creation option
 2. User is prompted to fill in the following fields:
@@ -45,6 +46,7 @@ Password: must be at least 9 characters, with at least 1 uppercase letter, 1 num
 -The user will see a user guide which will tell the user how to use the app
 "This app uses ab 8 week fitness routine. It recommended you start on a monday and progress through the program everyday.If you miss a day, thats fine; just shift your schedule, and continue the program in its intended order."
 
+Non-Functional:Contain an 8 week workout program that supports the users needs 
 
 -As a user I should be able to view my excercise guide weeks 1-8 
 1.The user will login and see there 8 week program laid out in front of them
@@ -69,7 +71,9 @@ Password: must be at least 9 characters, with at least 1 uppercase letter, 1 num
 1. The user will check a box besides a excercise
 -This will help the user remember where they left off.
 
--As a User I once I click the menu button I should see a menu
+Functional: Be accessible on a computer
+
+-As a User once I click the menu button I should see a menu
 1.The user will click the menu icon
 2. A dropdown will appear with a list of choices for the user to select
 -Help
