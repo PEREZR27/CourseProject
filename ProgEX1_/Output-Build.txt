@@ -1,0 +1,6 @@
+﻿1>------ Build started: Project: ProgEX1_, Configuration: Debug Any CPU ------
+1>C:\Users\erau\Desktop\CourseProject\ProgEX1_\ProgEX1_\Program.cs(9,28,9,34): warning CS0169: The field 'Program.height' is never used
+1>C:\Users\erau\Desktop\CourseProject\ProgEX1_\ProgEX1_\Program.cs(8,28,8,34): warning CS0169: The field 'Program.bottom' is never used
+1>ProgEX1_ -> C:\Users\erau\Desktop\CourseProject\ProgEX1_\ProgEX1_\bin\Debug\netcoreapp3.1\ProgEX1_.dll
+1>Done building project "ProgEX1_.csproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
