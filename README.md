@@ -5,7 +5,7 @@ Eight Week Fitness App (EWFA)
 The Idea
 What is Eight Week Fitness App?
 
-This process of staying in shape and acheiving new results in body strength, size and shape.
+The process of staying in shape and acheiving new results in body strength, size and shape.
 
 The Benefits
 Promotes A Healthy Life Style
